@@ -2,7 +2,10 @@
 
 decred blockchain challenge FRONT END - EN DESARRROLLO
 
-README. PENDIENTE
+EN DESARROLLO COMO PARTE COMPLEMENTARIA AL BACKEND DE:
+https://github.com/eliseoabelcarh/NodeJs-MongoDb-ChallengeAPI-DecredBlockchain
+
+
 
 
 
